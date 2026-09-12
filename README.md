@@ -2,12 +2,17 @@
 
 A simple To-Do application built using HTML, CSS, and JavaScript.
 
+## Authour 
+- Vishal Sharma
 ## Features
 
 - Add tasks
-- Delete tasks
 - Mark tasks as completed
 - Save tasks using LocalStorage
+- Delete individual tasks
+- Mark tasks complete/incomplete
+- Delete all tasks
+
 
 ## Technologies Used
 
